@@ -7,4 +7,8 @@ Thanks to Plotly, we created an animation dashboard to show confirmed cases of S
 
 
 
+https://user-images.githubusercontent.com/53668767/213202921-bd4d8d8b-d79c-40b8-98b0-2a66973d4c5b.MP4
+
+
+
 ![projet_dashboard](https://user-images.githubusercontent.com/53668767/212727948-757466dc-3f7b-40b8-a0c2-012b5d5d3161.png)
